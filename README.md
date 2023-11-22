@@ -3,7 +3,7 @@
 Students are required to implement a multi-threaded chat room service. The system will have one (multi-threaded) chat server, several chat rooms, and multiple chat clients. Socket interface is used to implement network communications.
 
 Instructions
-
+--------------------------------------------------------------------------------------------
 Download the respected source code of the client-side (ChatroomClient.c) and server-side (ChatroomServer.c)
 
 Before running these files on a Linux/Unix platform (ex: Ubuntu), make sure you install the 'gcc' command by doing the following:
