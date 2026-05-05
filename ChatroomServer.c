@@ -1,5 +1,4 @@
 //Class: COSC 4333 Project
-//Group Members: Casey Lieby and Jalen McCarthy
 //Chatroom Server side of code
 
 #include <sys/socket.h>
